@@ -1,0 +1,8 @@
+/**index.wxss**/
+.chunk{
+     width: 100px;
+     height: 100px;
+     background-color: brown;
+     display:block;
+     flex-direction: column;
+}
